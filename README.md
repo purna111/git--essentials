@@ -1,13 +1,7 @@
 # git--essentials
 
-## deploymnt notes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in felis vel arcu viverra facilisis. Aliquam erat volutpat.
-
-
-## staging notes 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in felis vel arcu viverra facilisis. Aliquam erat volutpat.
-
+some new stuff in here
 
 ## how to use this repo
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in felis vel arcu viverra facilisis. Aliquam erat volutpat.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in felis vel arcu viverra facilisis. Aliquam erat volutpat.
